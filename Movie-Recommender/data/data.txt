@@ -1,1 +1,1 @@
-
+Before running the project unzip the imdb folder and save the imdb database inside the data folder
