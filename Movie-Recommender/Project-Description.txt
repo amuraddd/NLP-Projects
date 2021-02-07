@@ -1,1 +1,1 @@
-
+To run the file on a local machine. Save the files in the same format. Unzip the imdb database inside the data folder. Navigate to the the folder containing python scripts using the command line and run model.py.
