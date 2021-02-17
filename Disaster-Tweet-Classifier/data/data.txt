@@ -1,1 +1,0 @@
-SQLite db for training and testing data
