@@ -1,0 +1,1 @@
+Select * from Training_Tweets
