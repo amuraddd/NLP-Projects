@@ -1,2 +1,2 @@
 # NLP-Projects
-Repo containing NLP projects
+Repo containing NLP projects.
